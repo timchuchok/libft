@@ -8,3 +8,8 @@ git clone https://github.com/timchuchok/libft
 cd libft
 make
 </pre></code>
+
+For connect library to your sources use:
+<code>
+gcc -L. -lft example.c
+</code>

@@ -12,6 +12,6 @@ make
 For connect library to your sources use:
 <pre>
 <code>
-gcc libft.a example.c
+gcc libft.a your_source.c
 </code>
 </pre>

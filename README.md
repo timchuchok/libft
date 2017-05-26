@@ -10,7 +10,8 @@ make
 </pre></code>
 
 For connect library to your sources use:
-
+<pre>
 <code>
 gcc -L. -lft example.c
 </code>
+</pre>
